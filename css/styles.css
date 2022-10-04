@@ -156,7 +156,7 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.62;
-    color: var(--title-text-cor);
+    color: var(--logo-color);
     background: var(--primery-bacground-color);
     border-radius: 4px;
     border-color: transparent;
