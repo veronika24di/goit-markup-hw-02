@@ -204,7 +204,8 @@ ul {
 .filters .filter-button:hover,
 .filters .filter-button:focus {
     cursor: pointer;
-    color: var(--button-bacground-color);
+    color: var(--button-text-hover-color);
+    background: var(--button-bacground-color);
 }
 
 /* Footer */
@@ -218,6 +219,7 @@ ul {
 }
 
 .contacts {
+    font-style: normal;
 }
 
 .address {
