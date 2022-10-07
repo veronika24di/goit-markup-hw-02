@@ -73,6 +73,13 @@ ul {
     color: var(--primary-text-color);
 }
 
+.footer .contacts .link{
+font-weight: 400;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #FFFFFF99;
+}
+
 .contacts .link:hover,
 .contacts .link:focus {
     color: var(--button-bacground-color);
@@ -188,7 +195,6 @@ ul {
 /* Portfolio */
 
 .portfolio .portfolio-item {
-    font-weight: 700;
     font-size: 18px;
     line-height: 2;
     letter-spacing: 0.06em;
