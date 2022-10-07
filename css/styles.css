@@ -12,6 +12,7 @@
     --logo-color: #000000;
     --footer-logo-color: #ffffff;
     --section-team-color: #f5f4fa;
+    --footer-contact-color: #FFFFFF99
 }
 
 body {
@@ -74,10 +75,10 @@ ul {
 }
 
 .footer .contacts .link{
-font-weight: 400;
+    font-weight: 400;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: #FFFFFF99;
+    color: var(--footer-contact-colo);
 }
 
 .contacts .link:hover,
